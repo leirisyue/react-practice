@@ -1,0 +1,1 @@
+start with npx nodemon index.js
